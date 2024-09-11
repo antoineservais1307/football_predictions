@@ -2,4 +2,3 @@ streamlit
 pandas
 streamlit-calendar
 plotly.express
-base64
